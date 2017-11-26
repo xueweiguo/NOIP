@@ -1,0 +1,17 @@
+Dad:1(Mostdown:3 Nodenode:5)
+7(Mostdown:1 Nodenode:1) 6(Mostdown:0 Nodenode:0) 2(Mostdown:2 Nodenode:3) 
+Dad:7(Mostdown:1 Nodenode:1)
+8(Mostdown:0 Nodenode:0) 
+Dad:8(Mostdown:0 Nodenode:0)
+NULL
+Dad:6(Mostdown:0 Nodenode:0)
+NULL
+Dad:2(Mostdown:2 Nodenode:3)
+5(Mostdown:0 Nodenode:0) 3(Mostdown:1 Nodenode:1) 
+Dad:5(Mostdown:0 Nodenode:0)
+NULL
+Dad:3(Mostdown:1 Nodenode:1)
+4(Mostdown:0 Nodenode:0) 
+Dad:4(Mostdown:0 Nodenode:0)
+NULL
+5
